@@ -1,0 +1,26 @@
+{
+  "modulePathMap": {
+    "entry": "/Users/cc/Downloads/YanzhengLayoutWeight-main/entry"
+  },
+  "compileMode": "esmodule",
+  "projectRootPath": "/Users/cc/Downloads/YanzhengLayoutWeight-main",
+  "nodeModulesPath": "/Users/cc/Downloads/YanzhengLayoutWeight-main/entry/build/default/intermediates/loader_out/default/node_modules",
+  "byteCodeHarInfo": {},
+  "declarationEntry": [],
+  "moduleName": "entry",
+  "hspNameOhmMap": {},
+  "harNameOhmMap": {},
+  "packageManagerType": "ohpm",
+  "compileEntry": [],
+  "otherCompileFiles": [],
+  "dynamicImportLibInfo": {},
+  "routerMap": [],
+  "hspResourcesMap": {},
+  "updateVersionInfo": {},
+  "customizedHar": false,
+  "anBuildOutPut": "/Users/cc/Downloads/YanzhengLayoutWeight-main/entry/build/default/intermediates/loader_out/default/an/arm64-v8a",
+  "anBuildMode": "type",
+  "patchConfig": {
+    "changedFileList": "/Users/cc/Downloads/YanzhengLayoutWeight-main/entry/build/default/intermediates/patch/default/changedFileList.json"
+  }
+}
